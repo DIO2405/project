@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ma première page HTML</title>
+</head>
+<body>
+	<h1>Bienvenue sur ma page !</h1>
+	<p>Voici un paragraphe de texte.</p>
+	<ul>
+		<li>Elément de liste 1</li>
+		<li>Elément de liste 2</li>
+		<li>Elément de liste 3</li>
+	</ul>
+</body>
+</html>
