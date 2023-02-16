@@ -17,4 +17,4 @@ ENV FLASK_ENV=production
 EXPOSE 8080
 
 # Run the command to start the Flask app
-CMD ["python", "ok.py"]
+CMD ["python", "project.py"]
